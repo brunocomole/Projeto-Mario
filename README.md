@@ -1,6 +1,6 @@
 <h1 align="center">
-<img src="img/logo.png" alt="logo"  widht="250px" >
-<img src="img/mario.png" alt="logo"  widht="250px"/>
+<img src="img/logo.png" alt="logo"  widht="40px" >
+<img src="img/mario.png" alt="mario"  widht="40px"/>
 
 </h1>
 
